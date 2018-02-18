@@ -1,0 +1,14 @@
+{
+  "name": "movie_site",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "caler <g-i@live.cn>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Calerme/movie_site",
+  "dependencies": {
+    "bootstrap": "bootstrap4#^4.0.0",
+    "jquery": "^3.3.1"
+  }
+}

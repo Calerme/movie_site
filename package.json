@@ -1,0 +1,14 @@
+{
+  "name": "movie_site",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "git@github.com:Calerme/movie_site.git",
+  "author": "caler <g-i@live.cn>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "moment": "^2.20.1",
+    "mongoose": "^5.0.6",
+    "pug": "^2.0.0-rc.4"
+  }
+}
